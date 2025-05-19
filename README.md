@@ -1,2 +1,2 @@
 # PythonIntroducao
-Introducao e aprendizado de conceitos basicos da linguagem python
+Introducao e aprendizado de conceitos da linguagem python
